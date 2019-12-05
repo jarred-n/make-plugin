@@ -1,0 +1,21 @@
+{
+  "name": "make-plugin",
+  "version": "1.0.0",
+  "description": "my first plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarred-n/make-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarred-n/make-plugin/issues"
+  },
+  "homepage": "https://github.com/jarred-n/make-plugin#readme"
+}
